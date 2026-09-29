@@ -67,15 +67,3 @@ The dashboard helps understand:
 4. Explore the interactive dashboard and report pages.
 
 > Note: The `.pbix` file requires Microsoft Power BI Desktop to open.
-
-## 👩‍💻 Author
-
-**B. Rithikashree**
-
-Aspiring Data Analyst | Artificial Intelligence & Machine Learning Student
-
-Interested in **Data Analytics, Business Intelligence, SQL, Python, Excel and Power BI**.
-
----
-
-⭐ If you find this project useful, feel free to explore the repository and connect with me.
